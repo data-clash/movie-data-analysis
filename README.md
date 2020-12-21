@@ -10,11 +10,11 @@ Learn basic matplotlib python commands for data access, cleaning and visualizati
 
 The questions we will be addressing in this report are as follows:
 
-Which was the most popular movie every year from 2010 to 2015?
-What factors are associated with movies that have high revenues?
-Which are the top 10 movies with highest revenue?
-Which are the top 10 most profitable genres?
-Which actor movies were released the most in 2015?
+1. Which was the most popular movie every year from 2010 to 2015?
+2. What factors are associated with movies that have high revenues?
+3. Which are the top 10 movies with highest revenue?
+4. Which are the top 10 most profitable genres?
+5. Which actor movies were released the most in 2015?
 
 ## Summary of Findings
 
